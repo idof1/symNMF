@@ -12,7 +12,6 @@ This project implements a clustering algorithm based on Symmetric Non-negative M
 - **analysis.py**: Script to analyze clustering results and compare SymNMF with K-means.
 - **setup.py**: Setup file to build the C extension for Python.
 - **Makefile**: Makefile for compiling the C interface.
-- **Additional C/h files**: Optional modules and headers as required by your design.
 
 ## Getting Started
 
@@ -96,6 +95,3 @@ To build and run the project:
 This project is based on the algorithm described in:
 - Da Kuang, Chris Ding, and Haesun Park. *Symmetric Nonnegative Matrix Factorization for Graph Clustering*. SDM 2012.
 
-## License
-
-[MIT License](LICENSE)
